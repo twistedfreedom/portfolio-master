@@ -1,0 +1,54 @@
+article{
+    width:80%;
+ 
+}
+
+body{
+ background: lightblue; 
+  width:80%;
+} 
+
+
+h1{
+  color: gray;
+}
+
+header{
+  background: white;
+  width:80%;
+}
+li{
+  display:inline-block;
+  font-size: 2em;
+  padding:.2em;
+  margin:0 auto; 
+}
+a:active, a:visited{
+  
+    text-decoration: none;
+}
+a{
+  color:gray;
+  text-decoration: none;
+  
+}
+
+footer{
+  background: white;
+  width:80%; 
+}
+
+section{
+  display: inline-block;
+}
+
+.left{
+  width:40%;
+  margin:.5em;
+}
+
+.right{
+  width:40%;
+  margin:.5em;
+ 
+}
